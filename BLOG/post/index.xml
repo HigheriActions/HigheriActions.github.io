@@ -1,71 +1,120 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Posts on ALEX1NG</title>
-        <link>/BLOG/post/</link>
-        <description>Recent content in Posts on ALEX1NG</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>zh-cn</language>
-        <copyright>STAR HigheriTech</copyright>
-        <lastBuildDate>Sat, 20 Sep 2025 10:42:22 +0800</lastBuildDate><atom:link href="/BLOG/post/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>HigheriPE 5.0 新内容</title>
-        <link>/BLOG/p/higheripe-5.0-%E6%96%B0%E5%86%85%E5%AE%B9/</link>
-        <pubDate>Sat, 20 Sep 2025 10:42:22 +0800</pubDate>
+  <channel>
+    <title>Alex’s Blog</title>
+    <link>/BLOG/post/</link>
+    <description>Recent content from Alex’s Blog</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    
+    <managingEditor>1481107375@qq.com (ALEX1NG)</managingEditor>
+    <webMaster>1481107375@qq.com (ALEX1NG)</webMaster>
+    
+    <copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright>
+    
+    <lastBuildDate>Fri, 03 Oct 2025 21:33:41 +0800</lastBuildDate>
+    
+    
+    <atom:link href="/BLOG/post/index.xml" rel="self" type="application/rss&#43;xml" />
+    
+
+    
+    
+
+    <item>
+      <title>HigheriPE 5.2 新内容</title>
+      <link>/BLOG/post/higheripe-5.2-%E6%96%B0%E5%86%85%E5%AE%B9/</link>
+      <pubDate>Fri, 03 Oct 2025 21:33:41 &#43;0800</pubDate>
+      <author>1481107375@qq.com (ALEX1NG)</author>
+      <guid>/BLOG/post/higheripe-5.2-%E6%96%B0%E5%86%85%E5%AE%B9/</guid>
+      <description>
+        <![CDATA[<h1>HigheriPE 5.2 新内容</h1><p>作者：ALEX1NG（1481107375@qq.com）</p>
         
-        <guid>/BLOG/p/higheripe-5.0-%E6%96%B0%E5%86%85%E5%AE%B9/</guid>
-        <description>&lt;img src="https://tc.z.wiki/autoupload/f/9N_u8o2-NHYExq43-j5XZ8SZW8uZg2pdX9tNOMtzPj6yl5f0KlZfm6UsKj-HyTuv/20250810/zPo8/1658X1243/lQLPKILMLKa4cJ3NA2TNBIKw8h-mcGFgg4sIY0rIxYqGAA_1154_868.png" alt="Featured image of post HigheriPE 5.0 新内容" /&gt;&lt;p&gt;呃&amp;hellip;经过28天的爆肝，终于做完了&lt;/p&gt;
-&lt;p&gt;隆重为您介绍 HigheriPE 5.0&lt;/p&gt;
-&lt;h3 id=&#34;11-全新文档页&#34;&gt;1.1 全新文档页
-&lt;/h3&gt;&lt;p&gt;小白也能通过阅读文档来轻松使用PE&lt;/p&gt;
-&lt;p&gt;详见 &lt;a class=&#34;link&#34; href=&#34;https://www.higheri.tech/HigheriPE-Docs&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;HigheriPE使用说明文档&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;21-新插件功能&#34;&gt;2.1 新插件功能
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;HigheriPE自主开发插件功能&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;自定义壁纸：导入自己喜欢的壁纸到PE
-网络办公与远程协助：附带QQ，微信，Todesk等工具&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;支持Edgeless插件&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;使用方法详见 &lt;a class=&#34;link&#34; href=&#34;https://www.higheri.tech/HigheriPE-Docs&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;HigheriPE使用说明文档&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;22-全新安装程序&#34;&gt;2.2 全新安装程序
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;更美观的UI
-现已有Windows 10X 太阳谷风格的程序UI，简洁清晰美观&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;界面现已支持2K显示器高DPI缩放&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;插件中心&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;实现一键安装 &lt;a class=&#34;link&#34; href=&#34;#2.1-%e6%96%b0%e6%8f%92%e4%bb%b6%e5%8a%9f%e8%83%bd&#34; &gt;1.2&lt;/a&gt; 中的插件内容&lt;/p&gt;
-&lt;h3 id=&#34;23-更小的体积&#34;&gt;2.3 更小的体积
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;得益于插件的外置选择性安装，默认PE镜像大小缩小到800MB&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;31-获取&#34;&gt;3.1 获取
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.higheri.tech/VIEW/PE/PE.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;HigheriPE官网页面&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.higheri.tech/HigheriPE-Docs&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;HigheriPE使用说明文档&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        </item>
-        <item>
-        <title>欢迎</title>
-        <link>/BLOG/p/%E6%AC%A2%E8%BF%8E/</link>
-        <pubDate>Sat, 20 Sep 2025 09:37:52 +0800</pubDate>
+          <p>隆重为您介绍 HigheriPE 5.2</p>
+<h3 id="11-美观的安装程序">
+<a class="header-anchor" href="#11-%e7%be%8e%e8%a7%82%e7%9a%84%e5%ae%89%e8%a3%85%e7%a8%8b%e5%ba%8f"></a>
+1.1 美观的安装程序
+</h3><ul>
+<li>HigheriPE安装程序界面大焕新</li>
+</ul>
+<p>全新窗口框架，更稳定，更美观🤓👍</p>
+<h3 id="12-插件系统优化">
+<a class="header-anchor" href="#12-%e6%8f%92%e4%bb%b6%e7%b3%bb%e7%bb%9f%e4%bc%98%e5%8c%96"></a>
+1.2 插件系统优化
+</h3><ul>
+<li>现在，在PE里启动插件程序包后将会自动在PE创建快捷方式</li>
+</ul>
+<h3 id="13-大小">
+<a class="header-anchor" href="#13-%e5%a4%a7%e5%b0%8f"></a>
+1.3 大小
+</h3><ul>
+<li>PE安装程序大小约为896MB，ISO镜像大小约为696MB</li>
+</ul>
+<h3 id="21-获取">
+<a class="header-anchor" href="#21-%e8%8e%b7%e5%8f%96"></a>
+2.1 获取
+</h3><ul>
+<li>
+<p><a href="https://www.higheri.tech/VIEW/PE/PE.html">HigheriPE官网页面</a></p>
         
-        <guid>/BLOG/p/%E6%AC%A2%E8%BF%8E/</guid>
-        <description>&lt;img src="https://tc.z.wiki/autoupload/f/ZKl8H8xLnmtMddQV0VGzFO-1BRp3bhOSVw0ThL_JF_myl5f0KlZfm6UsKj-HyTuv/20250920/m6PT/297X294/nerdan.png" alt="Featured image of post 欢迎" /&gt;&lt;h1 id=&#34;欢迎来到alexs-blog-欢迎来到我的博客这里将会记录star-higheritech部分项目的更新日志以及我的生活&#34;&gt;欢迎来到Alex&amp;rsquo;s Blog😋 欢迎来到我的博客，这里将会记录STAR HigheriTech部分项目的更新日志以及我的生活~
-&lt;/h1&gt;</description>
-        </item>
+        <hr><p>本文2025-10-03首发于<a href='/BLOG/'>Alex’s Blog</a>，最后修改于2025-10-03</p>]]>
+      </description>
+      
+    </item>
+    
+    
+
+    <item>
+      <title>HigheriPE 5.0 新内容</title>
+      <link>/BLOG/post/higheripe-5.0-%E6%96%B0%E5%86%85%E5%AE%B9/</link>
+      <pubDate>Fri, 03 Oct 2025 21:09:31 &#43;0800</pubDate>
+      <author>1481107375@qq.com (ALEX1NG)</author>
+      <guid>/BLOG/post/higheripe-5.0-%E6%96%B0%E5%86%85%E5%AE%B9/</guid>
+      <description>
+        <![CDATA[<h1>HigheriPE 5.0 新内容</h1><p>作者：ALEX1NG（1481107375@qq.com）</p>
         
-    </channel>
+          <p>呃&hellip;经过28天的爆肝，终于做完了</p>
+<p>隆重为您介绍 HigheriPE 5.0</p>
+<h3 id="11-全新文档页">
+<a class="header-anchor" href="#11-%e5%85%a8%e6%96%b0%e6%96%87%e6%a1%a3%e9%a1%b5"></a>
+1.1 全新文档页
+</h3><p>小白也能通过阅读文档来轻松使用PE</p>
+<p>详见 <a href="https://www.higheri.tech/HigheriPE-Docs">HigheriPE使用说明文档</a></p>
+<h3 id="21-新插件功能">
+<a class="header-anchor" href="#21-%e6%96%b0%e6%8f%92%e4%bb%b6%e5%8a%9f%e8%83%bd"></a>
+2.1 新插件功能
+</h3><ul>
+<li>HigheriPE自主开发插件功能</li>
+</ul>
+<p>自定义壁纸：导入自己喜欢的壁纸到PE
+网络办公与远程协助：附带QQ，微信，Todesk等工具</p>
+        
+        <hr><p>本文2025-10-03首发于<a href='/BLOG/'>Alex’s Blog</a>，最后修改于2025-10-03</p>]]>
+      </description>
+      
+    </item>
+    
+    
+
+    <item>
+      <title>欢迎</title>
+      <link>/BLOG/post/welcome/</link>
+      <pubDate>Fri, 03 Oct 2025 20:59:33 &#43;0800</pubDate>
+      <author>1481107375@qq.com (ALEX1NG)</author>
+      <guid>/BLOG/post/welcome/</guid>
+      <description>
+        <![CDATA[<h1>欢迎</h1><p>作者：ALEX1NG（1481107375@qq.com）</p>
+        
+          <p>By ALEX1NG</p>
+<h1 id="欢迎来到alexs-blog-欢迎来到我的博客这里将会记录star-higheritech部分项目的更新日志以及我的生活">
+<a class="header-anchor" href="#%e6%ac%a2%e8%bf%8e%e6%9d%a5%e5%88%b0alexs-blog-%e6%ac%a2%e8%bf%8e%e6%9d%a5%e5%88%b0%e6%88%91%e7%9a%84%e5%8d%9a%e5%ae%a2%e8%bf%99%e9%87%8c%e5%b0%86%e4%bc%9a%e8%ae%b0%e5%bd%95star-higheritech%e9%83%a8%e5%88%86%e9%a1%b9%e7%9b%ae%e7%9a%84%e6%9b%b4%e6%96%b0%e6%97%a5%e5%bf%97%e4%bb%a5%e5%8f%8a%e6%88%91%e7%9a%84%e7%94%9f%e6%b4%bb"></a>
+欢迎来到Alex&rsquo;s Blog😋 欢迎来到我的博客，这里将会记录STAR HigheriTech部分项目的更新日志以及我的生活~
+</h1>
+        
+        <hr><p>本文2025-10-03首发于<a href='/BLOG/'>Alex’s Blog</a>，最后修改于2025-10-03</p>]]>
+      </description>
+      
+    </item>
+    
+  </channel>
 </rss>
