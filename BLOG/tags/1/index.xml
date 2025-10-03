@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 on Alex’s Blog</title>
-    <link>/tags/1/</link>
+    <link>/BLOG/tags/1/</link>
     <description>Recent content from Alex’s Blog</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
@@ -15,7 +15,7 @@
     <lastBuildDate>Fri, 03 Oct 2025 21:33:41 +0800</lastBuildDate>
     
     
-    <atom:link href="/tags/1/index.xml" rel="self" type="application/rss&#43;xml" />
+    <atom:link href="/BLOG/tags/1/index.xml" rel="self" type="application/rss&#43;xml" />
     
 
     
@@ -23,10 +23,10 @@
 
     <item>
       <title>HigheriPE 5.2 新内容</title>
-      <link>/post/higheripe-5.2-%E6%96%B0%E5%86%85%E5%AE%B9/</link>
+      <link>/BLOG/post/higheripe-5.2-%E6%96%B0%E5%86%85%E5%AE%B9/</link>
       <pubDate>Fri, 03 Oct 2025 21:33:41 &#43;0800</pubDate>
       <author>1481107375@qq.com (ALEX1NG)</author>
-      <guid>/post/higheripe-5.2-%E6%96%B0%E5%86%85%E5%AE%B9/</guid>
+      <guid>/BLOG/post/higheripe-5.2-%E6%96%B0%E5%86%85%E5%AE%B9/</guid>
       <description>
         <![CDATA[<h1>HigheriPE 5.2 新内容</h1><p>作者：ALEX1NG（1481107375@qq.com）</p>
         
@@ -57,7 +57,7 @@
 <li>
 <p><a href="https://www.higheri.tech/VIEW/PE/PE.html">HigheriPE官网页面</a></p>
         
-        <hr><p>本文2025-10-03首发于<a href='/'>Alex’s Blog</a>，最后修改于2025-10-03</p>]]>
+        <hr><p>本文2025-10-03首发于<a href='/BLOG/'>Alex’s Blog</a>，最后修改于2025-10-03</p>]]>
       </description>
       
         <category>0</category>
@@ -68,10 +68,10 @@
 
     <item>
       <title>HigheriPE 5.0 新内容</title>
-      <link>/post/higheripe-5.0-%E6%96%B0%E5%86%85%E5%AE%B9/</link>
+      <link>/BLOG/post/higheripe-5.0-%E6%96%B0%E5%86%85%E5%AE%B9/</link>
       <pubDate>Fri, 03 Oct 2025 21:09:31 &#43;0800</pubDate>
       <author>1481107375@qq.com (ALEX1NG)</author>
-      <guid>/post/higheripe-5.0-%E6%96%B0%E5%86%85%E5%AE%B9/</guid>
+      <guid>/BLOG/post/higheripe-5.0-%E6%96%B0%E5%86%85%E5%AE%B9/</guid>
       <description>
         <![CDATA[<h1>HigheriPE 5.0 新内容</h1><p>作者：ALEX1NG（1481107375@qq.com）</p>
         
@@ -91,7 +91,7 @@
 <p>自定义壁纸：导入自己喜欢的壁纸到PE
 网络办公与远程协助：附带QQ，微信，Todesk等工具</p>
         
-        <hr><p>本文2025-10-03首发于<a href='/'>Alex’s Blog</a>，最后修改于2025-10-03</p>]]>
+        <hr><p>本文2025-10-03首发于<a href='/BLOG/'>Alex’s Blog</a>，最后修改于2025-10-03</p>]]>
       </description>
       
         <category>0</category>

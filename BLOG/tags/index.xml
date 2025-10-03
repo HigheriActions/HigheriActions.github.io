@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Alex’s Blog</title>
-    <link>/tags/</link>
+    <link>/BLOG/tags/</link>
     <description>Recent content from Alex’s Blog</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
@@ -15,7 +15,7 @@
     <lastBuildDate></lastBuildDate>
     
     
-    <atom:link href="/tags/index.xml" rel="self" type="application/rss&#43;xml" />
+    <atom:link href="/BLOG/tags/index.xml" rel="self" type="application/rss&#43;xml" />
     
 
     
