@@ -2,32 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/BLOG/</loc>
+    <loc>/categories/1/</loc>
     <lastmod>2025-10-03T21:33:41+08:00</lastmod>
   </url><url>
-    <loc>/BLOG/post/higheripe-5.2-%E6%96%B0%E5%86%85%E5%AE%B9/</loc>
+    <loc>/tags/1/</loc>
     <lastmod>2025-10-03T21:33:41+08:00</lastmod>
   </url><url>
-    <loc>/BLOG/post/higheripe-5.0-%E6%96%B0%E5%86%85%E5%AE%B9/</loc>
+    <loc>/</loc>
+    <lastmod>2025-10-03T21:33:41+08:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2025-10-03T21:33:41+08:00</lastmod>
+  </url><url>
+    <loc>/post/higheripe-5.2-%E6%96%B0%E5%86%85%E5%AE%B9/</loc>
+    <lastmod>2025-10-03T21:33:41+08:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2025-10-03T21:33:41+08:00</lastmod>
+  </url><url>
+    <loc>/post/higheripe-5.0-%E6%96%B0%E5%86%85%E5%AE%B9/</loc>
     <lastmod>2025-10-03T21:09:31+08:00</lastmod>
   </url><url>
-    <loc>/BLOG/post/welcome/</loc>
+    <loc>/categories/0/</loc>
     <lastmod>2025-10-03T20:59:33+08:00</lastmod>
   </url><url>
-    <loc>/BLOG/archives/</loc>
+    <loc>/tags/0/</loc>
+    <lastmod>2025-10-03T20:59:33+08:00</lastmod>
+  </url><url>
+    <loc>/post/welcome/</loc>
+    <lastmod>2025-10-03T20:59:33+08:00</lastmod>
+  </url><url>
+    <loc>/archives/</loc>
     <lastmod>2022-07-26T21:46:25+08:00</lastmod>
   </url><url>
-    <loc>/BLOG/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2022-07-26T21:46:25+08:00</lastmod>
   </url><url>
-    <loc>/BLOG/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2022-06-09T20:12:52+08:00</lastmod>
   </url><url>
-    <loc>/BLOG/friend/</loc>
+    <loc>/friend/</loc>
     <lastmod>2022-06-09T20:12:52+08:00</lastmod>
-  </url><url>
-    <loc>/BLOG/categories/</loc>
-  </url><url>
-    <loc>/BLOG/tags/</loc>
   </url>
 </urlset>
