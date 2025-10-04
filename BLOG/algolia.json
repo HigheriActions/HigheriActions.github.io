@@ -1,25 +1,25 @@
 [
   {
-    "objectID": "a0e09f67414b446660457a3b9ec2c4b9504121b9",
-    "permalink": "/post/%E7%BD%91%E7%AB%99%E4%B8%89%E4%BB%B6%E5%A5%97%E7%BB%88%E4%BA%8E%E6%90%9E%E5%AE%8C%E4%BA%86/",
+    "objectID": "63efc5aed471a3070647c8b77a24e03c6d62e3b6",
+    "permalink": "/BLOG/post/%E7%BD%91%E7%AB%99%E4%B8%89%E4%BB%B6%E5%A5%97%E7%BB%88%E4%BA%8E%E6%90%9E%E5%AE%8C%E4%BA%86/",
     "title": "网站三件套终于搞完了","content": " 第一次尝试随便写写（语文作文不合格版） 我真的是懒中懒，都不愿意上网查了，整了个笨办法来创建新的文档站：创建一个Github小号来搞一个新的Pages仓库💀\n真的是无语了，也不知道什么就发烧了我艹了，也没查出来什么，应该就是普通感冒吧\n管昨天发生了什么呢，反正我就是呃给网站三件套：主站、文档站、个人博客 这些都给做完啦🤓\n怎么说呢，也是圆了我三年前，四年级的时候的一个小梦想吧，以前也不懂博客怎么搞，文档怎么搞，就是一个劲的用记事本手搓硬写HTML静态网页，也是没想到有VitePress、Hugo、Hexo这种好用又方便的玩意儿，也可能是当时也没什么简洁明了的好教程吧💀\n我才发现这个Github Desktop太好用了呃，比Git Bash和一堆限制的手动上传好用一百倍\n所以经过这么多折腾，我才发现这个应该是之前新出的Github Actions是真滴好用吧，我现在有个瞎想法：给仓库搞个PHP环境什么的，然后搞个DISCUZ上去🤓\n好吧，我想我需要投入更多的精力去实践了，呃，网上也没这种逆天教程吧应该，只能自己瞎搞实试试了💀\n哦对，忘了标一下文档站链接了 STAR HigheriTech 中途岛\n2025/10/4 ","date": "2025-10-04 11:59:12",
     "updated": "2025-10-04 11:59:12"
   }, 
   {
-    "objectID": "83d7d4f6ac67a119a665f2c2e23c9f88ac2ea276",
-    "permalink": "/post/higheripe-5.2-%E6%96%B0%E5%86%85%E5%AE%B9/",
+    "objectID": "135696b9457fe34f67cfe3ad87e293f013229f11",
+    "permalink": "/BLOG/post/higheripe-5.2-%E6%96%B0%E5%86%85%E5%AE%B9/",
     "title": "HigheriPE 5.2 新内容","content": "隆重为您介绍 HigheriPE 5.2\n1.1 美观的安装程序 HigheriPE安装程序界面大焕新 全新窗口框架，更稳定，更美观🤓👍\n1.2 插件系统优化 现在，在PE里启动插件程序包后将会自动在PE创建快捷方式 1.3 大小 PE安装程序大小约为896MB，ISO镜像大小约为696MB 2.1 获取 HigheriPE官网页面\nHigheriPE使用说明文档\n","date": "2025-10-03 21:33:41",
     "updated": "2025-10-03 21:33:41"
   }, 
   {
-    "objectID": "433947f0e39e2573cecc2548739152e98ea132e5",
-    "permalink": "/post/higheripe-5.0-%E6%96%B0%E5%86%85%E5%AE%B9/",
+    "objectID": "f7ebef0662406d728d666a2dd3ba445225f36731",
+    "permalink": "/BLOG/post/higheripe-5.0-%E6%96%B0%E5%86%85%E5%AE%B9/",
     "title": "HigheriPE 5.0 新内容","content": "呃\u0026hellip;经过28天的爆肝，终于做完了\n隆重为您介绍 HigheriPE 5.0\n1.1 全新文档页 小白也能通过阅读文档来轻松使用PE\n详见 HigheriPE使用说明文档\n2.1 新插件功能 HigheriPE自主开发插件功能 自定义壁纸：导入自己喜欢的壁纸到PE 网络办公与远程协助：附带QQ，微信，Todesk等工具\n支持Edgeless插件 使用方法详见 HigheriPE使用说明文档\n2.2 全新安装程序 更美观的UI 现已有Windows 10X 太阳谷风格的程序UI，简洁清晰美观 界面现已支持2K显示器高DPI缩放\n插件中心 实现一键安装 1.2 中的插件内容\n2.3 更小的体积 得益于插件的外置选择性安装，默认PE镜像大小缩小到800MB 3.1 获取 HigheriPE官网页面\nHigheriPE使用说明文档\n","date": "2025-10-03 21:09:31",
     "updated": "2025-10-03 21:09:31"
   }, 
   {
-    "objectID": "a312aad7ed0c72ec90ec395d11863153945a18cf",
-    "permalink": "/post/welcome/",
+    "objectID": "96faed7cf4aac506c4b84df24ca44634575cb554",
+    "permalink": "/BLOG/post/welcome/",
     "title": "欢迎","content": "By ALEX1NG\n欢迎来到Alex\u0026rsquo;s Blog😋 欢迎来到我的博客，这里将会记录STAR HigheriTech部分项目的更新日志以及我的生活~\n","date": "2025-10-03 20:59:33",
     "updated": "2025-10-03 20:59:33"
   }]

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>日常 on Alex’s Blog</title>
-    <link>/categories/%E6%97%A5%E5%B8%B8/</link>
+    <link>/BLOG/categories/%E6%97%A5%E5%B8%B8/</link>
     <description>Recent content from Alex’s Blog</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
@@ -15,7 +15,7 @@
     <lastBuildDate>Sat, 04 Oct 2025 11:59:12 +0800</lastBuildDate>
     
     
-    <atom:link href="/categories/%E6%97%A5%E5%B8%B8/index.xml" rel="self" type="application/rss&#43;xml" />
+    <atom:link href="/BLOG/categories/%E6%97%A5%E5%B8%B8/index.xml" rel="self" type="application/rss&#43;xml" />
     
 
     
@@ -23,10 +23,10 @@
 
     <item>
       <title>网站三件套终于搞完了</title>
-      <link>/post/%E7%BD%91%E7%AB%99%E4%B8%89%E4%BB%B6%E5%A5%97%E7%BB%88%E4%BA%8E%E6%90%9E%E5%AE%8C%E4%BA%86/</link>
+      <link>/BLOG/post/%E7%BD%91%E7%AB%99%E4%B8%89%E4%BB%B6%E5%A5%97%E7%BB%88%E4%BA%8E%E6%90%9E%E5%AE%8C%E4%BA%86/</link>
       <pubDate>Sat, 04 Oct 2025 11:59:12 &#43;0800</pubDate>
       <author>1481107375@qq.com (ALEX1NG)</author>
-      <guid>/post/%E7%BD%91%E7%AB%99%E4%B8%89%E4%BB%B6%E5%A5%97%E7%BB%88%E4%BA%8E%E6%90%9E%E5%AE%8C%E4%BA%86/</guid>
+      <guid>/BLOG/post/%E7%BD%91%E7%AB%99%E4%B8%89%E4%BB%B6%E5%A5%97%E7%BB%88%E4%BA%8E%E6%90%9E%E5%AE%8C%E4%BA%86/</guid>
       <description>
         <![CDATA[<h1>网站三件套终于搞完了</h1><p>作者：ALEX1NG（1481107375@qq.com）</p>
         
@@ -35,7 +35,7 @@
 第一次尝试随便写写（语文作文不合格版）
 </h3><p>我真的是懒中懒，都不愿意上网查了，整了个笨办法来创建新的文档站：创建一个Github小号来搞一个新的Pages仓库💀</p>
         
-        <hr><p>本文2025-10-04首发于<a href='/'>Alex’s Blog</a>，最后修改于2025-10-04</p>]]>
+        <hr><p>本文2025-10-04首发于<a href='/BLOG/'>Alex’s Blog</a>，最后修改于2025-10-04</p>]]>
       </description>
       
         <category>网站</category><category>日常</category>
@@ -46,10 +46,10 @@
 
     <item>
       <title>欢迎</title>
-      <link>/post/welcome/</link>
+      <link>/BLOG/post/welcome/</link>
       <pubDate>Fri, 03 Oct 2025 20:59:33 &#43;0800</pubDate>
       <author>1481107375@qq.com (ALEX1NG)</author>
-      <guid>/post/welcome/</guid>
+      <guid>/BLOG/post/welcome/</guid>
       <description>
         <![CDATA[<h1>欢迎</h1><p>作者：ALEX1NG（1481107375@qq.com）</p>
         
@@ -59,7 +59,7 @@
 欢迎来到Alex&rsquo;s Blog😋
 </h1><p>欢迎来到我的博客，这里将会记录STAR HigheriTech部分项目的更新日志以及我的生活~</p>
         
-        <hr><p>本文2025-10-03首发于<a href='/'>Alex’s Blog</a>，最后修改于2025-10-03</p>]]>
+        <hr><p>本文2025-10-03首发于<a href='/BLOG/'>Alex’s Blog</a>，最后修改于2025-10-03</p>]]>
       </description>
       
         <category>日常</category>
