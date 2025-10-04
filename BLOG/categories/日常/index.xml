@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>日常 on Alex’s Blog</title>
+    <link>/categories/%E6%97%A5%E5%B8%B8/</link>
+    <description>Recent content from Alex’s Blog</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    
+    <managingEditor>1481107375@qq.com (ALEX1NG)</managingEditor>
+    <webMaster>1481107375@qq.com (ALEX1NG)</webMaster>
+    
+    <copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright>
+    
+    <lastBuildDate>Sat, 04 Oct 2025 11:59:12 +0800</lastBuildDate>
+    
+    
+    <atom:link href="/categories/%E6%97%A5%E5%B8%B8/index.xml" rel="self" type="application/rss&#43;xml" />
+    
+
+    
+    
+
+    <item>
+      <title>网站三件套终于搞完了</title>
+      <link>/post/%E7%BD%91%E7%AB%99%E4%B8%89%E4%BB%B6%E5%A5%97%E7%BB%88%E4%BA%8E%E6%90%9E%E5%AE%8C%E4%BA%86/</link>
+      <pubDate>Sat, 04 Oct 2025 11:59:12 &#43;0800</pubDate>
+      <author>1481107375@qq.com (ALEX1NG)</author>
+      <guid>/post/%E7%BD%91%E7%AB%99%E4%B8%89%E4%BB%B6%E5%A5%97%E7%BB%88%E4%BA%8E%E6%90%9E%E5%AE%8C%E4%BA%86/</guid>
+      <description>
+        <![CDATA[<h1>网站三件套终于搞完了</h1><p>作者：ALEX1NG（1481107375@qq.com）</p>
+        
+          <h3 id="第一次尝试随便写写语文作文不合格版">
+<a class="header-anchor" href="#%e7%ac%ac%e4%b8%80%e6%ac%a1%e5%b0%9d%e8%af%95%e9%9a%8f%e4%be%bf%e5%86%99%e5%86%99%e8%af%ad%e6%96%87%e4%bd%9c%e6%96%87%e4%b8%8d%e5%90%88%e6%a0%bc%e7%89%88"></a>
+第一次尝试随便写写（语文作文不合格版）
+</h3><p>我真的是懒中懒，都不愿意上网查了，整了个笨办法来创建新的文档站：创建一个Github小号来搞一个新的Pages仓库💀</p>
+        
+        <hr><p>本文2025-10-04首发于<a href='/'>Alex’s Blog</a>，最后修改于2025-10-04</p>]]>
+      </description>
+      
+        <category>网站</category><category>日常</category>
+      
+    </item>
+    
+    
+
+    <item>
+      <title>欢迎</title>
+      <link>/post/welcome/</link>
+      <pubDate>Fri, 03 Oct 2025 20:59:33 &#43;0800</pubDate>
+      <author>1481107375@qq.com (ALEX1NG)</author>
+      <guid>/post/welcome/</guid>
+      <description>
+        <![CDATA[<h1>欢迎</h1><p>作者：ALEX1NG（1481107375@qq.com）</p>
+        
+          <p>By ALEX1NG</p>
+<h1 id="欢迎来到alexs-blog">
+<a class="header-anchor" href="#%e6%ac%a2%e8%bf%8e%e6%9d%a5%e5%88%b0alexs-blog"></a>
+欢迎来到Alex&rsquo;s Blog😋
+</h1><p>欢迎来到我的博客，这里将会记录STAR HigheriTech部分项目的更新日志以及我的生活~</p>
+        
+        <hr><p>本文2025-10-03首发于<a href='/'>Alex’s Blog</a>，最后修改于2025-10-03</p>]]>
+      </description>
+      
+        <category>日常</category>
+      
+    </item>
+    
+  </channel>
+</rss>
